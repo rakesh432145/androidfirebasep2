@@ -6,4 +6,4 @@
 - There is no changes made to the UI
 - The stock UI is left as it is
  
-# There are many more to come after this part
+# There are many more to come after this
